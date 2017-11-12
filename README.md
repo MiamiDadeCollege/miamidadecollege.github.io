@@ -1,4 +1,5 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/MiamiDadeCollege)
+
 # MDC
 ---
 ## Credits
